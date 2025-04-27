@@ -38,7 +38,6 @@ Level up your communication and confidence — **before the real interview!**
 
 ### 1. Clone the repository:
 
-```bash
 git clone https://github.com/HarpreetKaur18/Interview-Practice-Simulator.git
 
 ### 2. Install dependencies:
