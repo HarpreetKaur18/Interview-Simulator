@@ -49,7 +49,9 @@ npm run dev
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
+
+<img width="905" alt="Interview Practice Simulator" src="https://github.com/user-attachments/assets/1efba804-6639-48a1-9af0-048a887d6bd7" />
 
 ---
 
